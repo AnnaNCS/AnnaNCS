@@ -13,7 +13,7 @@ Graduated from Occidental College with a double major in Computer Science and Ge
 C/C++, Java, Python (Pandas, NumPy, Anaconda, Keras), TensorFlow, Assembly, HTML, CSS, SQL, R, and MATLAB.
 
 ## Software 🛠️<br />
-Ruby on Rails, Docker, Kubernetes, Minikube, AWS, Unity3D, Gazebo, GameMaker Studio 2, VS Code.
+Ruby on Rails, Docker, Kubernetes, Minikube, AWS, Spark, Unity3D, Gazebo, GameMaker Studio 2, VS Code.
 
 ## Interests 🧠<br />
 Databases, Cloud Computing, and Embedded Systems! 
